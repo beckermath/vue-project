@@ -10,6 +10,6 @@ export default {
 </script>
 
 <template>
-  <h1>Todo List</h1>
+  <h1 class="text-center bg-color">Todo List</h1>
   <TodoListItem />
 </template>

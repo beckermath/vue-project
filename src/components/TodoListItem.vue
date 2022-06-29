@@ -4,5 +4,5 @@ export default {
 };
 </script>
 <template>
-  <h2>Todo List Item</h2>
+  <h2 class="text-center bg-blue-600">Todo List Item</h2>
 </template>
