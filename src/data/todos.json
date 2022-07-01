@@ -1,0 +1,17 @@
+[
+  {
+    "id": 0,
+    "title": "Get groceries",
+    "completed": false
+  },
+  {
+    "id": 1,
+    "title": "Walk the dog",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "title": "Go to work",
+    "completed": false
+  }
+]
